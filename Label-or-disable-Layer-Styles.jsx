@@ -7,7 +7,7 @@
 	// Local globals
 	var keyState = ScriptUI.environment.keyboardState;
 	var modKeyHeld = keyState.metaKey || keyState.ctrlKey;
-	var comp =app.project.activeItem instanceof CompItem
+	var comp = app.project.activeItem instanceof CompItem
 		? app.project.activeItem
 		: null;
 
