@@ -65,7 +65,7 @@ version 1.0     March 12, 2018
     
     /**
     * gets active composition
-    * from Zach Lovatt
+    * from Zack Lovatt
     * @param 
     * @returns 
     */
@@ -80,7 +80,7 @@ version 1.0     March 12, 2018
     
     /**
     * loops through all selected layers in active comp
-    * from Zach Lovatt
+    * from Zack Lovatt
     * @param
     * @returns 
     */
@@ -93,7 +93,7 @@ version 1.0     March 12, 2018
     
     /**
     * loops through all items in array
-    * from Zach Lovatt
+    * from Zack Lovatt
     * @param
     * @returns 
     */
