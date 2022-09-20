@@ -1,6 +1,6 @@
 # After Effects Scriptlets
 
-These are small After Effects scripts I've written to help with common motion graphics and video tasks. They are intended as free resources to benefit the After Effects community. I feel fortunate to have had this knowledge shared with me and I hope you will find it just as useful, either as a user or in writing scripts of your own. Any borrowed code is attributed to it's original source to the best of my ability. 
+These are small After Effects scripts I've written to help with common motion graphics and video tasks. They are intended as free resources to benefit the After Effects community. I feel fortunate to have had this knowledge shared with me and I hope you will find it just as useful, either as a user or in writing scripts of your own. Any borrowed code is attributed to its original source to the best of my ability. 
 
 Disclaimer: All scripts are provided "as is," without warranty of any kind, expressed or implied. In no event shall I be held liable for any damages arising in any way from the use of these scripts. They were not written for profit but for utility and shared with that in mind.
 
